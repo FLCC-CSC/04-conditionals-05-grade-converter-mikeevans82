@@ -1,9 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
-
+# NAME: Michael Evans
+# DATE: 02/24/2026
+# BRIEF DESCRIPTION:  ask for a percentage and return the corresponding letter grade.
 
 
 # 1. Make sure you fill out the comments above
@@ -85,10 +84,6 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
-
-
-
-
+Be sure to know how if, elif, and else work
 
 '''
